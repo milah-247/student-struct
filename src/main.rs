@@ -17,6 +17,6 @@ impl Student {
 }
 
 fn main() {
-    let student = Student::new("Amaka", 10);
+    let student = Student::new("Milah", 10);
     student.print_summary();
 }
